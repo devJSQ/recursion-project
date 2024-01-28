@@ -33,7 +33,7 @@ class Recursion {
    
 - In `Main` function    
 2. call the sum() function and print it's value.  
-3. Run the code and the output should be as the below result:     
+3. Run the code and the output should be the same as the below result:     
 ```java
 55
 ``` 
