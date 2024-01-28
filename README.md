@@ -1,7 +1,7 @@
 # Recursion project  
 
 ### Objective
-Our objective is to understand how the recursion algorithm works by implementing a function that solves aprogramming problem.
+Our objective is to understand how the recursion algorithm works by implementing a function that solves a programming problem.
 
 ### Problem  
 - Use recursion to add all of the numbers up to **10**.  
