@@ -1,18 +1,19 @@
 class Recursion {
-
     public static int sum(int k) {
         // Base case
         if (k <= 0) {
             return 0;
-            // Recursive call
         } else {
-            /* 1. Add your code here */
+            
+            return k + sum(k - 1);
         }
     }
+}
 
+public class Main {
     public static void main(String[] args) {
-        /* 2. Add your code here */
 
+        int result = Recursion.sum(10);
+        System.out.println(result); 
     }
-
 }
